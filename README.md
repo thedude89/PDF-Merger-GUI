@@ -12,8 +12,6 @@ Die **PDF Merger GUI** ist eine Python-Anwendung mit grafischer Benutzeroberflä
 - [Code](#code)
 - [Anforderungen](#anforderungen)
 - [Lizenz](#lizenz)
-- [Beiträge](#beiträge)
-- [Kontakt](#kontakt)
 
 ---
 

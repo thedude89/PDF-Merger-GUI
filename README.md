@@ -235,9 +235,6 @@ PyPDF2>=3.0.0
 ```
 
 ## Lizenz
-
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE). Sie können die Lizenzdatei mit folgendem Inhalt hinzufügen:
-
 ```text
 MIT License
 
